@@ -1,7 +1,3 @@
-Here is a complete `README.md` file for a PHP-based RabbitMQ messaging system using `php-amqplib`. You can paste this directly into your project’s `README.md` file.
-
----
-
 # PHP RabbitMQ Messaging System
 
 A simple PHP project demonstrating **how to send and receive messages using RabbitMQ**. This project uses the [php-amqplib](https://github.com/php-amqplib/php-amqplib) library and is great for learning the basics of message queues in PHP.
